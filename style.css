@@ -1,0 +1,128 @@
+
+body{
+    margin:0px 10px;
+}
+.logo-img{
+    height: 50px;
+    width: 50px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#home{
+    margin-top: 100px;
+}
+#first{
+ margin-top: 30px;
+ padding: 40px;
+}
+#first1{
+    padding: 100px;
+}
+.features-link{
+   margin: 0px auto;
+   cursor: pointer;
+   color: red;
+}
+
+
+#about{
+    margin-top: 40px;
+}
+.simson{
+    border-left: 10px red solid;
+}
+.simson1{
+    display: flex;
+    gap:20px;
+    padding: 30px;
+}
+#simson{
+    height: 80px;
+    width: 80px;
+    border-radius: 100vmax;
+}
+q{
+    padding: 10px;
+}
+
+#AboutUs{
+    margin-top: 70px;
+   
+   
+}
+#btn{
+    padding: 15px;
+    border-radius: 20px;
+}
+#pr{
+    line-height: 30px;
+}
+
+#team{
+    margin-top: 50px;
+}
+#caro-img{
+    height: 100px;
+    width: 100px;
+    border-radius: 100vmax;
+}
+
+.caro{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.caro-para{
+    text-align: center;
+    line-height: 40px;
+    font-size: 25px;
+    color: gray;
+}
+
+#testimonial{
+    margin-top: 50px;
+}
+
+#blog{
+    margin-top: 50px;
+}
+
+#contact{
+    margin-top: 50px;
+    background-image: url('./image/contact.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.form{
+    width: 80%;
+   margin: 0px auto;
+
+}
+.form1{
+    display: flex;
+    gap: 30px;
+}
+
+.form{
+    background-color: white;
+    padding: 50px;
+    margin-bottom: 70px;
+}
+
+.footer{
+    margin-top: 50px;
+    padding: 50px;
+    background-color: black;
+}
+
+.fav-icon{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 30px;
+}
